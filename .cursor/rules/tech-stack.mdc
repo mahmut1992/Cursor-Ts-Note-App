@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+### Core Stack
+- **Framework**: React
+- **Language**: TypeScript
+
+### Additional Libraries
+- **Routing**: React Router DOM
+- **State Management**: Redux Toolkit
+- **Styling**: Tailwind CSS, Material UI (MUI)
+- **Notification**: React Toastify
