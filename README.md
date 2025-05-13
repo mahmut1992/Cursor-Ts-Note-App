@@ -69,5 +69,5 @@ The application offers full Markdown support with the React Markdown library. Us
 
 For questions, suggestions, or collaboration:
 
-📧 email@example.com
-🐙 github.com/username
+📧 fratsbht@icloud.com
+🐙 github.com/mahmut1992
