@@ -26,6 +26,14 @@ Users can add, edit, write content in Markdown format, and organize their notes 
 - **React Toastify**
 - **UUID**
 
+## ScreenShot
+
+
+
+https://github.com/user-attachments/assets/c93a6e7d-34e4-4974-a21a-1f74220d3217
+
+
+
 ## 🧩 Core Components
 
 - **HomePage**: Lists all notes, provides search and tag filtering capabilities
